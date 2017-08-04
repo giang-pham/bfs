@@ -1,4 +1,5 @@
 # bfs
+```
 Node :start, Node :finish
 
 Map visited, Map previous
@@ -33,3 +34,5 @@ do
 while node is not null:
 
 sysout(path);
+
+```
